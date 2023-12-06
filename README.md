@@ -1,2 +1,2 @@
 # vadimhungry.github.io
-my blog
+personal homepage
