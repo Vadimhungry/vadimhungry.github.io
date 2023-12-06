@@ -1,0 +1,10 @@
+docs:
+
+  - title: Home
+    url: /
+
+  - title: My CV
+    url: /cv.html
+
+  - title: Blog
+    url: /blog.html
