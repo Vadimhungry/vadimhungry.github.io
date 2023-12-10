@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vadim Kovach CV
-permalink: cv
+permalink: /cv/
 ---
 # Vadim Kovach
 ## Python developer
