@@ -6,6 +6,8 @@ tags:
     hobby  
     development 
 excerpt: This week has been a whirlwind of learning and discovery
+lang: en
+ref: 2023-12-18-results
 ---
 This week has been a whirlwind of learning and discovery. Most of my waking hours were dedicated to unraveling the intricacies of Django framework through an online school called Hexlet. As I approach the culmination of the course, the challenge lies in developing a task manager app. I find myself grappling with the framework's abundance of possibilities and pre-made decisions – it's a maze that demands hands-on navigation.
 

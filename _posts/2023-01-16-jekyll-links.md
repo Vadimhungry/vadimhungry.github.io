@@ -5,7 +5,9 @@ tags:
     Jekyll 
     development 
     beginners
-excerpt: Some useful links for Jekyll beginners.
+excerpt: Some useful links for Jekyll beginners
+lang: en
+ref: jekyll-links
 ---
 Some useful links for Jekyll beginners. 
 ![Jekyll logo](/assets/img/jekyll-logo.png)
