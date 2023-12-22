@@ -5,18 +5,14 @@ permalink: /blog/
 lang: en
 ---
 <h1>{{ page.title }}</h1>
-<ul>
 
-    {% for post in site.posts %}
 
-    <li>
+{% for post in site.posts %}
 
-        <a href="{{ post.url }}">{{ post.title }}</a>
+<div>
+    <h2>{{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <p>{{ post.excerpt }}</p>
+</div>
 
-        {{ post.excerpt }}
+{% endfor %}
 
-    </li>
-
-    {% endfor %}
-
-</ul>
