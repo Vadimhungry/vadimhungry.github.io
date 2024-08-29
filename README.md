@@ -10,3 +10,5 @@ To do:
 - [x] add dates of posts on posts page
 - [ ] add domain
 - [ ] refactor html of posts page
+- [ ] add analytics
+      
