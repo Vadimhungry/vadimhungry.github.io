@@ -7,8 +7,10 @@ To do:
 - [ ] add [slideshow](https://html5css.ru/howto/howto_js_slideshow.php)
 - [ ] add [comments](https://mademistakes.com/mastering-jekyll/static-comments/)
 - [ ] add [Jekyllpad](https://www.jekyllpad.com/)
-- [x] add dates of posts on posts page
+- [x] add dates of posts on posts page 
 - [ ] add domain
 - [ ] refactor html of posts page
 - [ ] add analytics
+- [ ] add tags
+- [ ] add filters
       
