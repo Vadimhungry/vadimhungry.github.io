@@ -5,7 +5,7 @@ tags:
     life
     development
     job
-excerpt: This week, I came to the realization that delving into Django can be a challenging
+excerpt: ore than half a year has passed since the last post
 lang: en
 ---
 More than half a year has passed since the last post on this site. Actually, I even forgot about this blog. So it's interesting to compare my previous thoughts with the current ones.
