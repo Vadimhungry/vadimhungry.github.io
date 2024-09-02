@@ -13,7 +13,7 @@ To do:
 - [ ] add analytics
 - [ ] add tags
   - [x] add main stuff
-  - [ ] add all tags descriptions
+  - [x] add all tags descriptions
   - [x] push to git
   - [ ] correct css for tags
 - [ ] add filters
