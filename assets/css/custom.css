@@ -1,4 +1,6 @@
 code.highligher-rouge {
   font-size: 85%;
+  padding: .25em .5em;
   color: #bf616a;
+  background-color: #f9f9f9;
 }
