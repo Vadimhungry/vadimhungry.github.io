@@ -3,8 +3,6 @@ layout: post
 title:  "Jekyll development"
 tags: 
     Jekyll 
-    development 
-    beginners
 excerpt: Some useful links for Jekyll beginners
 lang: en
 ref: jekyll-links

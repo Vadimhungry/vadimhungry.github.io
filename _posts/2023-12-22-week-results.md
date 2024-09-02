@@ -3,8 +3,6 @@ layout: post
 title:  "Week  results"
 tags: 
     life
-    hobby  
-    development 
 excerpt: This week, I came to the realization that delving into Django can be a challenging
 lang: en
 ---

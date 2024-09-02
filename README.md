@@ -14,8 +14,10 @@ To do:
 - [ ] add tags
   - [x] add main stuff
   - [ ] add all tags descriptions
-  - [ ] push to git
+  - [x] push to git
+  - [ ] correct css for tags
 - [ ] add filters
 - [ ] renew welcome page - it is about me personaly and all my stuff whatsewer. So CV is not so appropriate
 - [ ] del CV
+- 
       

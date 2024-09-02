@@ -3,8 +3,6 @@ layout: post
 title:  "Week  results"
 tags: 
     life
-    hobby  
-    development 
 excerpt: This week has been a whirlwind of learning and discovery
 lang: en
 ref: 2023-12-18-results

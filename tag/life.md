@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: hololens"
+title: "Tag: life"
 tag: life
 ---
 

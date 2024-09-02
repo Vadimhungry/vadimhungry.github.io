@@ -2,10 +2,9 @@
 layout: post
 title:  "Palestine by Joe Sacco"
 tags: 
-    life
     palestine
-    politics
-excerpt: ore than half a year has passed since the last post
+    history
+excerpt: A few weeks ago, I finished reading this comic book and wanted to share some thoughts
 lang: en
 ---
 A few weeks ago, I finished reading this comic book and wanted to share some thoughts on it.

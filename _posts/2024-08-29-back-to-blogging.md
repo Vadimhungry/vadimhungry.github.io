@@ -3,9 +3,8 @@ layout: post
 title:  "Back to blogging"
 tags: 
     life
-    development
     job
-excerpt: ore than half a year has passed since the last post
+excerpt: More than half a year has passed since the last post
 lang: en
 ---
 More than half a year has passed since the last post on this site. Actually, I even forgot about this blog. So it's interesting to compare my previous thoughts with the current ones.
