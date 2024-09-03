@@ -9,15 +9,15 @@ To do:
 - [ ] add [Jekyllpad](https://www.jekyllpad.com/)
 - [x] add dates of posts on posts page 
 - [ ] add domain
-- [ ] refactor html of posts page
+- [ ] refactor html of posts page?
 - [ ] add analytics
 - [ ] add tags
   - [x] add main stuff
   - [x] add all tags descriptions
   - [x] push to git
-  - [ ] correct css for tags
+  - [x] correct css for tags
 - [ ] add filters
 - [ ] renew welcome page - it is about me personaly and all my stuff whatsewer. So CV is not so appropriate
-- [ ] del CV
-- 
+- [x] del CV
+- [ ] add rss
       
