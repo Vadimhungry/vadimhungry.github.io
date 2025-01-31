@@ -3,7 +3,7 @@ title:  "Life updates"
 tags: 
     job
     cinema
-excerpt: 
+excerpt: Since September, a lot of time has passed
 lang: en
 ---
 ## Job
