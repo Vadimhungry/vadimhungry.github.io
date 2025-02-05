@@ -12,6 +12,7 @@ To do:
 - [ ] add filters?
 - [ ] renew welcome page - it is about me personaly and all my stuff whatsewer. So CV is not so appropriate
 - [ ] add rss
+- [ ] figure out how to work with css on Jekyll
 - [x] del CV
 - [x] add tags
   - [x] add main stuff
