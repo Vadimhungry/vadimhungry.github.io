@@ -4,6 +4,7 @@ title:  "Palestine by Joe Sacco"
 tags: 
     palestine
     history
+    book
 excerpt: A few weeks ago, I finished reading this comic book and wanted to share some thoughts
 lang: en
 ---
