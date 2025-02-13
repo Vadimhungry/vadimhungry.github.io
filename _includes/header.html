@@ -5,7 +5,7 @@
     <!--          <img src="{{site.logo | relative_url}}" alt="Logo" />-->
     <!--        {% endif %}-->
 
-    <ul >
+    <ul class="main-nav">
         {% for item in site.data.navigation.docs %}
         <li><a href="{{ item.url }}">{{ item.title }}</a></li>
         {% endfor %}
