@@ -2,7 +2,7 @@
 layout: post
 title:  "Jekyll development"
 tags: 
-    Jekyll 
+    jekyll 
 excerpt: Some useful links for Jekyll beginners
 lang: en
 ref: jekyll-links
